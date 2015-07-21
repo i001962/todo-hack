@@ -1,0 +1,1 @@
+fs.writeFile(filename, data[, options], callback);

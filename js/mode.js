@@ -1,0 +1,1 @@
+var mode = 0777 & ~process.umask();
